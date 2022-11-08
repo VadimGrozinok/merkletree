@@ -1,3 +1,3 @@
-module github.com/vadimG/merkletree
+module github.com/VadimGrozinok/merkletree
 
 go 1.12
