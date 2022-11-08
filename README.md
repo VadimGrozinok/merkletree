@@ -6,6 +6,10 @@
 <a href="#"><img src="https://img.shields.io/badge/version-0.1.0-brightgreen.svg" alt="Version"></a>
 </p>
 
+> **Warning**
+>
+> This fork contains small refactor, use on your own risk
+
 An implementation of a Merkle Tree written in Go. A Merkle Tree is a hash tree that provides an efficient way to verify
 the contents of a set data are present and untampered with.
 
